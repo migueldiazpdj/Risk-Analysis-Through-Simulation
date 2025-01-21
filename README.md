@@ -9,8 +9,7 @@ This project demonstrates risk analysis using historical stock price data for **
 - 📈 Fetch stock prices using `quantmod`  
 - 🧮 Calculate daily returns for NKE  
 - 📉 Compute statistical measures: mean, variance, standard deviation  
-- 🚨 Value at Risk (VaR) estimation at 1% and 5% confidence levels  
-- 🎲 KDE-based return simulation for future risk analysis  
+- 🚨 Value at Risk (VaR) estimation at 1% and 5% confidence levels   
 
 ---
 
