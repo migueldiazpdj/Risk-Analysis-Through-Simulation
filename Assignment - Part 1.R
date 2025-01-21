@@ -1,6 +1,5 @@
 # RISK ANALYSIS THROUGH SIMULATION – LAB
 # Institute for Advanced Analytics
-# GROUP 3
 # We use NKE stocks prices
 
 #PART 1
